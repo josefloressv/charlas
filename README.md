@@ -1,6 +1,7 @@
 # 🎤 Charlas de Jose A. Flores
 
 Este repositorio documenta las charlas que he dado en diferentes comunidades y eventos desde 2024, incluyendo Kubernetes Community Days (KCD), meetups, y conferencias. Aquí encontrarás enlaces a diapositivas, repositorios de código y otros materiales.
+[English](README.en.md)
 
 ## 📅 Charlas por Año
 
@@ -24,7 +25,6 @@ Este repositorio documenta las charlas que he dado en diferentes comunidades y e
 | 🗓 **Apr 4, 2024** | [CLOUD NATIVE CONNECT](https://community.cncf.io/e/myn6z2/) | UCA y Cloud Native San Salvador | [YouTube](https://youtu.be/BjtTN3unMfo) • [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7215113831956557824) |
 | **Mar 2, 2024** | [Integración de Tecnologías Nativas de la Nube y Código Abierto en la Educación Universitaria](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024-1/cohost-kcd-costa-rica) | KCD Costa Rica - Heredia | [Evento](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024-1/cohost-kcd-costa-rica) | - | - | [Post](https://www.linkedin.com/posts/josefloressv_iniciando-esta-aventura-en-el-pa%C3%ADs-pura-activity-7169716275898757120-Qm5U) |
 | **Mar 1, 2024** | [Kubernetes Unleashed: Forjando Comunidades y Carreras más allá de las Certificaciones](https://community.cncf.io/events/details/cncf-kcd-costa-rica-presents-kcd-costa-rica-2024-1/cohost-kcd-costa-rica) | KCD Costa Rica - Heredia | - | - | - | - |
-| 🗓 **Feb 6, 2024** | [Cloud Native LATAM - Meetup Febrero](https://community.cncf.io/events/details/cncf-cloud-native-latam-presents-cloud-native-latam-meetup-febrero/cohost-cloud-native-san-salvador) | Cloud Native LATAM | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7215111896029409280) |
 | 🗓 **Jan 31, 2024** | [2024: Despegando el año con CNCF San Salvador](https://community.cncf.io/events/details/cncf-san-salvador-presents-2024-despegando-el-ano-con-cncf-san-salvador/) | Cloud Native San Salvador | [YouTube](https://youtu.be/BBIdLuamSgc) |
 
 
