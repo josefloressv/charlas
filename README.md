@@ -8,6 +8,8 @@ Este repositorio documenta las charlas que he dado en diferentes comunidades y e
 
 | Fecha | Título | Comunidad | Recursos |
 |-------|--------|-----------|----------|
+| 🗓 **Sep 20, 2025** | [Organizador — KCD El Salvador 2025](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador/) | KCD El Salvador (San Salvador) | [Evento](https://community.cncf.io/events/details/cncf-kcd-el-salvador-presents-kcd-el-salvador/) |
+| 🗓 **Ago 29, 2025** | [Aprendiendo GitOps desde ECS: mi ruta a Kubernetes con ArgoCD y GitHub Actions](https://kcd-colombia-bogota-2025.sessionize.com/speaker/2488324a-6984-4c79-a808-9991c24b7ae4) | KCD Colombia (Bogotá) | [YouTube](https://www.youtube.com/watch?v=aptDd0uecwk) |
 | 🗓 **Jan 29, 2025** | [Road to KCD Costa Rica 2025: Orquestación Avanzada con Helm y ArgoCD](https://community.cncf.io/events/details/cncf-cloud-native-costa-rica-presents-road-to-kcd-costa-rica-2025-orquestacion-avanzada-con-helm-y-argocd/cohost-cloud-native-san-salvador) | Cloud Native Costa Rica | [GitHub](https://github.com/josefloressv/gitops_demo) • [LinkedIn](https://www.linkedin.com/posts/josefloressv_cloudnative-kubernetes-helm-activity-7287171726751223808-roav) |
 | 🗓 **Jan 23, 2025** | [Workshop: Primeros Pasos con Helm y la Base para Despliegues Declarativos](https://community.cncf.io/events/details/cncf-cloud-native-san-salvador-presents-workshop-primeros-pasos-con-helm-y-la-base-para-despliegues-declarativos/cohost-cloud-native-san-salvador) | Cloud Native San Salvador | [GitHub](https://github.com/josefloressv/helm_workshop) • [YouTube](https://youtu.be/LhVyQQF0FfM) • [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7286122866209636352) |
 
